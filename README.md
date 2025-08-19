@@ -1,11 +1,11 @@
-# 📚 Literalura – Challenge Oficial 2025  
+# 📚 Literalura – Challenge  Oficial Alura2025  
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" alt="Logo del proyecto" width="150"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-En%20desarrollo-yellow?style=for-the-badge" alt="Estado del proyecto">
+  <img src="https://img.shields.io/badge/STATUS-Finalizado-brightgreen?style=for-the-badge" alt="Estado del proyecto">
   <img src="https://img.shields.io/github/license/DVILLEGAS1207/literalura?style=for-the-badge" alt="Licencia">
   <img src="https://img.shields.io/github/stars/DVILLEGAS1207/literalura?style=for-the-badge" alt="Stars">
 </p>
@@ -33,9 +33,9 @@ El objetivo del proyecto es construir un **catálogo literario interactivo** que
 
 ---
 
-## 🚧 Estado
+## ✅ Estado
 <h4 align="center">
-  🚧 Proyecto en desarrollo 🚧  
+  🎉 Proyecto Finalizado 🎉
 </h4>
 
 ---
@@ -50,11 +50,19 @@ El objetivo del proyecto es construir un **catálogo literario interactivo** que
 ---
 
 ## 🖼️ Demo / Capturas
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91570636/230690505-17a07a38-d9b7-4e4e-9dd1-fcbccd2c67c2.png" alt="Captura de ejemplo" width="600"/>
+  <img src="./assets/demo1.png" alt="Menú principal de Literalura" width="600"/>
 </p>
 
-*Imagen ilustrativa de un menú en consola del proyecto.*  
+<p align="center">
+  <img src="./assets/demo2.png" alt="Busqueda de Libros" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./assets/demo3.png" alt="Listado de libros consultados" width="600"/>
+</p>
+
 
 ---
 
